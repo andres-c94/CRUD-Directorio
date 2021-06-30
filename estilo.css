@@ -1,0 +1,28 @@
+.barra{
+    box-shadow: 2px 2px 15px 0 black ;
+}
+.formulario{
+  font-size: 18px;
+}
+.btn-primary{
+    width: 100%;
+}
+
+
+.container-xl{
+    margin-top: 20px;
+    padding: 20PX;
+    
+}
+
+.formulario{
+    border-right: 2px solid rgb(115, 115, 128);
+    padding-right: 8px;
+}
+.formulario label{
+    margin-top: 10px;
+}
+
+.formulario input{
+    text-transform: capitalize;
+}
